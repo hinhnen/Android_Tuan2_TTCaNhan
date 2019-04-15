@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tuan2_TTCaNhan</string>
+    <string name="hoten">Tên >= 3 ký tự</string>
+    <string name="cmnd">Nhập đúng 9 chữ số</string>
+    <color name="txtColor">#fff</color>
+    <string name="bangcap">Bằng cấp</string>
+    <string name="trungcap">Trung cấp</string>
+    <string name="caodang">Cao đẳng</string>
+    <string name="daihoc">Đại học</string>
+    <string name="sothich">Sở thích</string>
+    <string name="bosung">Thông tin bổ sung</string>
+    <string name="ttbosung">Nhập thông tin bổ sung - có thể bỏ trống</string>
+    <string name="button">Gửi thông tin</string>
+</resources>
